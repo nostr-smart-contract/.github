@@ -4,7 +4,7 @@ NSC is a project foscued in put mini smart contracts and no complex on Nostr usi
 
 ## Purpose
 
-- Facilite interation between Nostr and Bitcoin protocols
+- Facilite interaction between Nostr and Bitcoin protocols
 - Use Bitcoin script native without need soft forks or buzz words
 - Use L2s as Lightning Network
 
